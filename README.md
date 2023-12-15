@@ -18,3 +18,6 @@ Gun Mods
 Autofarm
 Godmode
 Esp
+
+
+[ This is a open source project. ]
