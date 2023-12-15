@@ -7,9 +7,10 @@ Working westbound cheat script (as of 12/15/2023)
 WORKS WITH LEVEL 2 EXECUTORS SUCH AS NetflixCE !!!!!
 
 NOTE:
-Gui seems to be erroring.
-I will update later today.
-IN THE MEANTIME you can just execute the scripts seperatly.
+Updated UI!
+
+if you experience issues, its most likley your proxy place for NetflixCE.
+If the GUI is erroring, you can try to execute each of the scripts seperately.
 
 
 Aimbot
