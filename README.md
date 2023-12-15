@@ -6,6 +6,8 @@ Working westbound cheat script (as of 12/15/2023)
 
 WORKS WITH LEVEL 2 EXECUTORS SUCH AS NetflixCE !!!!!
 
+[ SCRIPT: https://github.com/MrWaffleManTheGreat/WestBound-Gui-V2/blob/main/WestboundGUI ]
+
 NOTE:
 Updated UI!
 
