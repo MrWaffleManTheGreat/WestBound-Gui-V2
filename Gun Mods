@@ -1,0 +1,23 @@
+
+local mods = {
+    Damage = math.huge, 
+    FanFire = true, 
+    camShakeResist = 0, 
+    Spread = 0, 
+    prepTime = 0, 
+    equipTime = 0, 
+    MaxShots = math.huge, 
+    ReloadAnimationSpeed = 0, 
+    ReloadSpeed = 0, 
+    HipFireAccuracy = 0, 
+    ZoomAccuracy = 0, 
+    InstantFireAnimation = true
+}
+
+for _, gun in pairs(require(game:GetService("ReplicatedStorage").GunScripts.GunStats)) do
+    for prop, value in pairs(mods) do
+        if gun[prop] then
+            gun[prop] = value
+        end
+    end
+end
