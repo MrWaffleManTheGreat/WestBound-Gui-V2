@@ -1,5 +1,5 @@
 # WestBound-Gui-V2
-UI IS BROKEN PLEASE RUN SCRIPTS INDIVIDUALLY
+# UI IS BROKEN PLEASE RUN SCRIPTS INDIVIDUALLY
 ![image](https://github.com/MrWaffleManTheGreat/WestBound-Gui-V2/assets/136655545/09aa6647-8f89-41d7-95fe-1fc1eb201730)
 
 N to toggle ui.
